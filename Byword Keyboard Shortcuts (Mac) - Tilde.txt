@@ -1,0 +1,60 @@
+Insert Link~cmd-K
+Insert Image Reference~cmd-option-I
+Insert Hard Line Break~ctrl-Enter
+Select All~cmd-A
+Toggle Preview Markdown~cmd-option-P
+Toggle Full Screen~cmd-Enter
+Toggle Paragraph Focus~cmd-option-Enter
+Toggle Line Focus~cmd-ctrl-Enter
+Toggle Typewriter Mode~cmd-ctrl-T
+Show / Hide Counters~cmd-shift-K
+Show Popover (in Rich Text Mode)~cmd-T
+Bold Text~cmd-B
+Italic Text~cmd-I
+Underline Text (in Rich Text Mode)~cmd-U
+Highlight Text (in Rich Text Mode)~cmd-shift-H
+Insert Bulleted List~cmd-L
+Insert Numbered List~cmd-option-L
+Increase Paragraph Indent~cmd-ctrl-Right Arrow
+Decrease Paragraph Indent~cmd-ctrl-Left Arrow
+Increase Quote Level~cmd-'
+Decrease Quote Level~cmd-option-'
+Toggle between Rich / Plain Text~cmd-shift-T
+New File~cmd-N
+Open File~cmd-O
+Open File from iCloud~cmd-shift-O
+Save~cmd-S
+Export HTML to Clipboard~cmd-option-C
+Export HTML to File~cmd-option-E
+Increase Selection at Caret~cmd-option-Up Arrow
+Decrease Selection at Caret~cmd-option-Down Arrow
+Move Selection Up~cmd-ctrl-Up Arrow
+Move Selected Text Up~cmd-ctrl-Up Arrow
+Move Selected Text Down~cmd-ctrl-Down Arrow
+Move Selected Text Right~cmd-ctrl-Right Arrow
+Move Selected Text Left~cmd-ctrl-Left Arrow
+Print~cmd-P
+Page Setup~cmd-shift-P
+Open Preferences~cmd-,
+Hide Byword~cmd-H
+Hide Others~cmd-option-H
+Quit Byword~cmd-Q
+Close Document~cmd-W
+Find~cmd-F
+Find and Replace~cmd-R
+Find Next~Enter
+Find Previous~shift-Enter
+Use Selected Text for Find~cmd-E
+Jump to Selected Text~cmd-J
+Open Spelling and Grammar Dialog~cmd-:
+Check Spelling and Grammar~cmd-;
+Open Special Characters Dialog~cmd-option-T
+Increase Font Size~cmd and +
+Decrease Font Size~cmd and -
+Align Text Left (in Rich Text Mode)~cmd-{
+Align Text Right (in Rich Text Mode)~cmd-}
+Center Text (in Rich Text Mode)~cmd-|
+Toggle between Bulleted / Numbered List~cmd-shift-L
+Minimize Byword~cmd-M
+Increase List Level~cmd-ctrl-Right Arrow
+Decrease List Level~cmd-ctrl-Left Arrow
